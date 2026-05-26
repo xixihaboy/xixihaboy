@@ -1,14 +1,9 @@
-## Hi there 👋
+## Hi, I'm xixihaboy
 
-I'm **xixihaboy**, welcome to my GitHub!
+Welcome to my GitHub. I enjoy building things and exploring new technologies.
 
-### About Me
-- 🌱 Exploring new technologies and building cool projects
-- 💡 Passionate about learning and sharing knowledge
+### Repositories
+- [Cc_space](https://github.com/xixihaboy/Cc_space) — My project workspace
 
-### GitHub Stats
-![xixihaboy's GitHub stats](https://github-readme-stats.vercel.app/api?username=xixihaboy&show_icons=true&theme=default)
-
----
-
-*This profile is a work in progress. Stay tuned for more!*
+### Get in Touch
+Feel free to open an issue or start a discussion in any of my repositories.
